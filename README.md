@@ -1,7 +1,7 @@
 # Dataset: Impact of Screen Time and Sleep Quality on Oral Behaviors and Caries Risk in School-Age Children
 
 **Author:** Isaac  
-**Corresponding author email:** your-email-here@example.com
+**Corresponding author email:** dapoisaac771@gmail.com
 
 ## Description
 This repository contains the dataset and analysis materials used in the study:
